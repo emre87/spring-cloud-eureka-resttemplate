@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="amazon-server" />
+        <module name="shopping-service" />
+        <module name="amazon-shopping" />
       </profile>
     </annotationProcessing>
   </component>
